@@ -1,21 +1,11 @@
 # JATE
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I was tasked with taking the starter code and completing the build of a functional text editor that works both online and offline using webpacker, babel and idb. I learned how to implement service workers to a web application as well as how to execute a full-stack application with a server and client-side development server. 
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide)
+Instructor Leif and TA Fred 
 
 ## License
 MIT License
